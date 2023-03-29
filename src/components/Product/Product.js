@@ -66,6 +66,7 @@ export default function Product() {
                 ))}
             </div>
             <p>Checking if changes get deployed</p>
+            <p>checking changes</p>
 
         </div>
     )
